@@ -11,6 +11,8 @@ This repository is intended as a minimal example to load [Code Llama](https://ai
 
 
 ## Download
+# Huggingface
+https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-fp16
 
 In order to download the model weights and tokenizers, please visit the [Meta AI website](https://ai.meta.com/resources/models-and-libraries/llama-downloads/) and accept our License.
 
