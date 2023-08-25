@@ -11,8 +11,7 @@ This repository is intended as a minimal example to load [Code Llama](https://ai
 
 
 ## Download
-# Huggingface
-https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-fp16
+
 
 In order to download the model weights and tokenizers, please visit the [Meta AI website](https://ai.meta.com/resources/models-and-libraries/llama-downloads/) and accept our License.
 
@@ -23,6 +22,9 @@ Pre-requisites: make sure you have `wget` and `md5sum` installed. Then to run th
 Keep in mind that the links expire after 24 hours and a certain amount of downloads. If you start seeing errors such as `403: Forbidden`, you can always re-request a link.
 
 [comment]: <> (Access on Hugging Face, We are also providing downloads on Hugging Face. You must first request a download from the Meta AI website using the same email address as your Hugging Face account. After doing so, you can request access to any of the models on Hugging Face and within 1-2 days your account will be granted access to all versions.)
+
+## Huggingface - download
+https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-fp16
 
 ## Setup
 
